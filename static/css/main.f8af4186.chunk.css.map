@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Loader/Loader.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,UAAW","file":"main.f8af4186.chunk.css","sourcesContent":[".loader {\n  height: 80px;\n  width: 80px;\n}\n"]}
